@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  openresty-art:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-05T11:46:07.791233207+07:00"
+    description: creating chart fot education
+    digest: b30bfe76b397238426916996b474e43c8698946f3d51dc2db57ef32aaaadab8c
+    maintainers:
+    - email: ivan.zavaruev@mail.ru
+      name: Ivan Zavaruev
+    name: openresty-art
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/IvanZavaruev/helm_lesson/blob/master/charts/openresty-art-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-05T11:46:07.789594214+07:00"

@@ -12,6 +12,6 @@ entries:
     name: openresty-art
     type: application
     urls:
-    - https://github.com/IvanZavaruev/helm_lesson/raw/master/charts/openresty-art-0.1.0.tgz
+    - https://github.com/IvanZavaruev/helm_lesson/blob/master/charts/openresty-art-0.1.0.tgz
     version: 0.1.0
 generated: "2022-08-05T11:46:07.789594214+07:00"
